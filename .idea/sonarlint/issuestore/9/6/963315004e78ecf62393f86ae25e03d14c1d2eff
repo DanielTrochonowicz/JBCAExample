@@ -1,0 +1,6 @@
+
+jsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ8Ñİ²•º-
+Nsquid:S1481"+Remove this unused "rowska" local variable.(‡£ƒóüÿÿÿÿ8¾¹à•º-
+>squid:S2068" Remove this hard-coded password.(‚íÈ¼8”‘¯•º-
+Asquid:S1148"#Use a logger to log this exception.(Ç’Çê8ìß­•º-
+ksquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(­íûÿÿÿÿÿ8”‘¯•º-

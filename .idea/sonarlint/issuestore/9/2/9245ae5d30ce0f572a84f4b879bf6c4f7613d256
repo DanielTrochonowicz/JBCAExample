@@ -1,0 +1,16 @@
+
+>squid:S2068
+" Remove this hard-coded password.(‚íÈ¼8Ì‚Ù¹º-
+~squid:S1192"[Define a constant instead of duplicating this literal "Total number of records = " 3 times.(‚ÊÚÍüÿÿÿÿ8îä“»º-
+jsquid:S2095."GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Â­ş®ùÿÿÿÿ8îä“»º-
+jsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(å©ÇÛûÿÿÿÿ8¯ºº-
+isquid:S1192"FDefine a constant instead of duplicating this literal "title" 3 times.(§Ù°îúÿÿÿÿ8îä“»º-
+dsquid:S1192"GDefine a constant instead of duplicating this literal "author" 3 times.( ÙèF8îä“»º-
+fsquid:S2095	"HUse try-with-resources or close this "Connection" in a "finally" clause.(¾‰Åí8Ì‚Ù¹º-
+dsquid:S1192"FDefine a constant instead of duplicating this literal "price" 3 times.(Çîÿ×8îä“»º-
+Fsquid:S1148R"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ì‚Ù¹º-
+jsquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(çåØ½úÿÿÿÿ8ê×ı¹º-
+jsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(¦×Ğ“ÿÿÿÿÿ8©”‚»º-
+Msquid:S1481="/Remove this unused "ulepszenie" local variable.(¾ä«Å8‹•Ä¼º-
+isquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(ê¯Â8£×¾º-
+usquid:S1192"WDefine a constant instead of duplicating this literal "The records selected: " 3 times.(ƒöÕ†8îä“»º-

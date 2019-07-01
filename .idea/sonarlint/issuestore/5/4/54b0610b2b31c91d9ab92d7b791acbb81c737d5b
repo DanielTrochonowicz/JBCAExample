@@ -1,0 +1,12 @@
+
+:squid:S1148B"#Use a logger to log this exception.(Ç’Çê
+^squid:S20954"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÂÜ™ç
+jsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ßÀ¢ˆşÿÿÿÿ8îÅÂ‘º-
+^squid:S2095!"GUse try-with-resources or close this "Statement" in a "finally" clause.(£í’á
+esquid:S2095&"GUse try-with-resources or close this "Statement" in a "finally" clause.(£í’á8·«ü“º-
+csquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ìï‡Àûÿÿÿÿ
+7squid:S2068	" Remove this hard-coded password.(‚íÈ¼
+csquid:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ
+Msquid:S1481"1Remove this unused "rowsAffected" local variable.(ùíä¬úÿÿÿÿ
+dsquid:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(­íûÿÿÿÿÿ
+fsquid:S2095."OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Àêµ»
